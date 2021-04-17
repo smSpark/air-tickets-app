@@ -10,7 +10,6 @@ const App: React.FC = () => {
     <Provider store={store}>
       <div className={style.container}>
         <Header />
-        {/*<SearchPage />*/}
       </div>
     </Provider>
   );
