@@ -40,5 +40,6 @@ module.exports = {
         printWidth: 100,
       },
     ],
+    "import/extensions": "off",
   },
 };
