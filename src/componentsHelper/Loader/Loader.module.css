@@ -1,0 +1,18 @@
+.wrapper {
+  margin-bottom: 20px;
+  padding: 5px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  margin-left: 20px;
+  height: 30px;
+  width: 30px;
+}
+
+.text {
+  color: #4A4A4A;
+  font-family: inherit;
+}
